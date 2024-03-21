@@ -1,6 +1,6 @@
 <a href="https://next-flowbite-react.vercel.app/"  target="_blank"><img src="https://raw.githubusercontent.com/sagarmusabbir/next-flowbite-react/main/public/screenshot.png" href="https://next-flowbite-react.vercel.app/"/></a>
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fnext-flowbite-react.vercel.app%2F&style=flat-square&label=Demoe&labelColor=white)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fnext-flowbite-react.vercel.app%2F&style=flat-square&label=Demo&labelColor=white)
 ![GitHub License](https://img.shields.io/github/license/sagarmusabbir/next-flowbite-react?style=flat-square&label=License&labelColor=white)
 ![NPM Version](https://img.shields.io/npm/v/flowbite?style=flat-square&label=Flowbite&labelColor=white)
 ![NPM Version](https://img.shields.io/npm/v/flowbite-react?style=flat-square&label=Flowbite-React&labelColor=white)
