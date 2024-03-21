@@ -1,7 +1,19 @@
 <a href="https://next-flowbite-react.vercel.app/"  target="_blank"><img src="https://raw.githubusercontent.com/sagarmusabbir/next-flowbite-react/main/public/screenshot.png" href="https://next-flowbite-react.vercel.app/"/></a>
 
-<img src="https://img.shields.io/github/package-json/v/sagarmusabbir/next-flowbite-react?label=package.json&labelColor=%2364748b
-"/> 
+<img src="https://img.shields.io/github/languages/top/sagarmusabbir/next-flowbite-react?style=for-the-badge"/>
+
+
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fnext-flowbite-react.vercel.app%2F&style=for-the-badge&label=Demo"/>
+
+<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=plastic"/>
+<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=plastic"/>
+<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=plastic"/>
+<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=social
+"/>
+[GitHub language count](https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=social)
+
+
+
 
 
 
