@@ -1,16 +1,21 @@
 <a href="https://next-flowbite-react.vercel.app/"  target="_blank"><img src="https://raw.githubusercontent.com/sagarmusabbir/next-flowbite-react/main/public/screenshot.png" href="https://next-flowbite-react.vercel.app/"/></a>
 
-<img src="https://img.shields.io/github/languages/top/sagarmusabbir/next-flowbite-react?style=for-the-badge"/>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fnext-flowbite-react.vercel.app%2F&style=flat-square&label=Demoe&labelColor=white)
+![GitHub License](https://img.shields.io/github/license/sagarmusabbir/next-flowbite-react?style=flat-square&label=License&labelColor=white)
+![NPM Version](https://img.shields.io/npm/v/flowbite?style=flat-square&label=Flowbite&labelColor=white)
+![NPM Version](https://img.shields.io/npm/v/flowbite-react?style=flat-square&label=Flowbite-React&labelColor=white)
+![NPM Version](https://img.shields.io/npm/v/tailwindcss?style=flat-square&label=Tailwind&labelColor=white)
+![NPM Version](https://img.shields.io/npm/v/next?style=flat-square&label=Next.js&labelColor=white&color=%231e293b)
 
 
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fnext-flowbite-react.vercel.app%2F&style=for-the-badge&label=Demo"/>
 
-<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=plastic"/>
-<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=plastic"/>
-<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=plastic"/>
-<img src="https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=social
-"/>
-[GitHub language count](https://img.shields.io/github/languages/count/sagarmusabbir/next-flowbite-react?style=social)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/MusabbirSagar?label=Follow)
+
+
+
+
+
+
 
 
 
@@ -20,7 +25,7 @@
 
 ## Deploy
 
-The easiest way to deploy your Nextjs Flowbite-React app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js. Check out their [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The easiest way to deploy your Nextjs Flowbite-React app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js. Check out their [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
 
