@@ -6,6 +6,8 @@
 ![NPM Version](https://img.shields.io/npm/v/flowbite-react?style=flat-square&label=Flowbite-React&labelColor=white)
 ![NPM Version](https://img.shields.io/npm/v/tailwindcss?style=flat-square&label=Tailwind&labelColor=white)
 ![NPM Version](https://img.shields.io/npm/v/next?style=flat-square&label=Next.js&labelColor=white&color=%231e293b)
+![GitHub Release](https://img.shields.io/github/v/release/sagarmusabbir/next-flowbite-react?style=flat-square&label=Release&labelColor=white)
+
 
 
 
