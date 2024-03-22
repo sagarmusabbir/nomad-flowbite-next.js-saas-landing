@@ -46,7 +46,7 @@ Similarly you can deploy to [Netlify](https://netlify.com) with their one click 
 <img src="https://img.shields.io/badge/_-Javascript-%23334155?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/_-React-%23334155?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/_-Vercel-%23334155?style=for-the-badge&logo=vercel"/>
-<img src="https://img.shields.io/badge/_-Wordpress-%23334155?style=for-the-badge&logo=wordpress"/>
+
 
 </p>
 
